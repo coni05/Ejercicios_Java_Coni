@@ -1,6 +1,6 @@
 package clases;
 
-import clases_empleado.Medico;
+import clases.clases_empleado.Medico;
 
 public class CitaMedica {
     private Paciente paciente;

@@ -5,9 +5,9 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
-import clases_empleado.EmpleadoEventual;
-import clases_empleado.EmpleadoPlantilla;
-import clases_empleado.Medico;
+import clases.clases_empleado.EmpleadoEventual;
+import clases.clases_empleado.EmpleadoPlantilla;
+import clases.clases_empleado.Medico;
 
 
 public class ModeloDatos {
